@@ -87,4 +87,4 @@ namespace StatisticsTest
 // CODE REVIEW! Något jag verkligen hade behövt, att någon på liknande nivå eller helst högre nivå kollar igenom koden för att se så allt är ok. I detta fallet hade det enkelt kunna fixat det som gick fel..
 // Hoppas detta var ok! 
 
-// **Random ändring eftersom jag tagit bort git filen i Statsitcs då det var en pil i mappen på github och det gjorde att det inte gick att gå in i mappen**
+// **Random ändring eftersom jag tagit bort git filen i Statsitcs då det var en pil i mappen på github och det gjorde att det inte gick att gå in i mappen***
